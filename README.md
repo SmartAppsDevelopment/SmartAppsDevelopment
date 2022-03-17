@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **SmartAppsDevelopment/SmartAppsDevelopment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm Sardar Khan</h1>
@@ -33,4 +33,4 @@ Android Development, Java, Kotlin, Machine Learning, Software Engineer..**
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
