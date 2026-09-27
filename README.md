@@ -6,6 +6,7 @@
 
 **Building high-performance native mobile experiences with Kotlin, Jetpack Compose, Modern Android Architecture, and Media Pipelines.**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-umerbilal.ai.studio-00C7B7?style=flat&logo=googlechrome&logoColor=white)](https://umerbilal.ai.studio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Umer%20Bilal-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umer-bilal-108543133/)
 [![GitHub](https://img.shields.io/badge/GitHub-SmartAppsDevelopment-181717?style=flat&logo=github&logoColor=white)](https://github.com/SmartAppsDevelopment)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Umer%20Bilal-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18628583/umer-bilal)
@@ -22,6 +23,7 @@ I am an **Android Developer** with **3+ years of production experience** enginee
 
 I write testable, maintainable code adhering to **Single Activity Architecture**, **MVVM / Clean Architecture**, and robust offline caching layers. My portfolio spans consumer-facing apps, developer productivity tools, and media processing utilities.
 
+* **Live Portfolio Website:** [https://umerbilal.ai.studio/](https://umerbilal.ai.studio/)
 * **Primary Stack:** Kotlin, Jetpack Compose, Modern Android Jetpack, Coroutines & Flow
 * **Architecture:** MVVM, Clean Architecture, Repository Pattern, Unidirectional Data Flow (UDF)
 * **Domain Experience:** Media & Image Processing, Developer Tooling & Network Inspection, Fintech Workflows, Real-time Push Notifications (FCM)
